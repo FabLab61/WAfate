@@ -3,6 +3,9 @@
 ===========================
 
 ### List of components:
+* arduino mega 2560
+* ramps 1.4
+* drivers
 * 
 ===========================
 
@@ -10,4 +13,21 @@
 
 ### To start using the printer you should:
 * to collect/to buy a printer
-* 
+* plastic to print
+* 3D model you want to print
+* load model which should be printed in the program interface print
+* start printing!
+===========================
+
+### Worked on the project:
+* Batanova Alexandra
+* Dmitriy Ivanov
+* Yavich Denis
+* Maria Dmitrieva
+* Elena Kasyanenko
+* Sherkunov Sergey
+* Romanovsky Vladimir
+* Velikoivanenko Alexander
+* Alexey Logunov
+
+#### Project made in school FabLab Rostov-on-Done
