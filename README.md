@@ -26,6 +26,8 @@ We used this [manual](http://reprap.org/wiki/Prusa_Mendel_(iteration_2)#Electron
 
 Marlin is firmware for RepRap single-processor electronics [here](https://github.com/josefprusa/PrusaMendel)
 
+[Case of printer](http://www.thingiverse.com/thing:14204)
+
 ===========================
 
 ### Worked on the project:
