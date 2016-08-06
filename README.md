@@ -20,6 +20,9 @@
 * load model which should be printed in the program interface print
 * start printing!
 
+<img src="https://pp.vk.me/c636317/v636317803/231fd/xPfWSKgwbmg.jpg" style="width: 100%"/>
+
+
 ===========================
 
 ### Worked on the project:
