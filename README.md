@@ -22,6 +22,7 @@
 
 <img src="https://pp.vk.me/c636317/v636317803/231fd/xPfWSKgwbmg.jpg" style="width: 100%"/>
 
+We used this [manual](http://reprap.org/wiki/Prusa_Mendel_(iteration_2)#Electronics)
 
 ===========================
 
