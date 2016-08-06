@@ -1,12 +1,13 @@
 # WAfate
 <h4> 3d printer based on arduino mega and RAMPS 1.4. The other components printed on a 3D printer and taken with the old devices.</h4>
 ===========================
+<img src="https://pp.vk.me/c604426/v604426294/1e925/pQF94u0-wHM.jpg" style="width: 100%"/>
 
 ### List of components:
 * arduino mega 2560
 * ramps 1.4
 * drivers
-* 
+* other components
 ===========================
 
 #### This repository stores the modified Merlin firmware for this printer.
