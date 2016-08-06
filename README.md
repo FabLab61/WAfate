@@ -5,4 +5,9 @@
 ### List of components:
 * 
 ===========================
-### This repository stores the modified Merlin firmware for this printer
+
+#### This repository stores the modified Merlin firmware for this printer.
+
+### To start using the printer you should:
+* to collect/to buy a printer
+* 
