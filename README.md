@@ -32,4 +32,4 @@
 * Velikoivanenko Alexander
 * Alexey Logunov
 
-#### Project made in school FabLab Rostov-on-Done
+#### Project made in school FabLab Rostov-on-Don
